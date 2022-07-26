@@ -1,0 +1,36 @@
+#The actual code behind Window's troubleshooting utility. :)
+
+#brc0d3s
+
+import time               #Allow us to use "time.sleep()"
+print("Windows Troubleshooter")
+print("Searching for problems... 0%")
+time.sleep(1.5)
+print("Searching for problems... 10%")
+time.sleep(1)
+print("Searching for problems... 20%")
+time.sleep(1)
+print("Searching for problems... 30%")
+time.sleep(0.5)
+print("Searching for problems... 40%")
+time.sleep(4)
+print("Searching for problems... 50%")
+time.sleep(1)
+print("Searching for problems... 60%")
+time.sleep(3)
+print("Searching for problems... 70%")
+time.sleep(5)
+print("Searching for problems... 80%")
+time.sleep(2.3)
+print("Searching for problems... 90%")
+time.sleep(1.5)
+print("Searching for problems... 100%")
+time.sleep(7)
+print("Searching for problems... Done.")
+time.sleep(1.5)
+input("Where is the problem? Your Answer: ")  #Ask a useless question.
+print("Scanning hardware...")
+time.sleep(21)
+print("Identifying Problems...")
+time.sleep(6)
+print("Windows couldn't identify the problem.")  #Reply a useless response.
